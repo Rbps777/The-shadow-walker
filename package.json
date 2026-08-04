@@ -1,0 +1,11 @@
+{
+  "name": "RBPbot",
+  "version": "0.1.0",
+  "description": "RBPbot - dependabot-core runner scaffold for Rbps777/The-shadow-walker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No tests yet\" && exit 0"
+  },
+  "author": "Rbps777",
+  "license": "MIT"
+}
